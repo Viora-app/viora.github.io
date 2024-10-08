@@ -12,7 +12,7 @@
       "start": "npx http-server ./build",
       "dev": "grunt dev"
    },
-   "author": "Block Made GmbH",
+   "author": "Ali Haghighatkhah",
    "license": "ISC",
    "dependencies": {
       "handlebars": "^4.7.7",
