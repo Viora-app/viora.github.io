@@ -5,7 +5,7 @@
     ftypes[0]='email';
     fnames[2]='TELEGRAM';
     ftypes[2]='text';
-    fnames[6]='LISK';
+    fnames[6]='SOLANA';
     ftypes[6]='text';
     fnames[1]='TWITTER';
     ftypes[1]='text';

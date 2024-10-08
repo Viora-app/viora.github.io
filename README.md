@@ -1,6 +1,6 @@
 # Viora
-### Decentrazlied music streaming platform
-Powered by [Lisk](https://lisk.com)
+### Connecting musicians and super fans
+Powered by Solana
 
 
 ### Content
