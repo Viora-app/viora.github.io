@@ -32,7 +32,7 @@ Viora consists of three major repositories that work together to provide the ful
 
 
 ### Content
-This repository contains the code for the Viora website, a decentralized music streaming platform.
+This repository contains the code for the Viora website, a decentralized music crowdfunding platform.
 
 
 ### Contributors:
